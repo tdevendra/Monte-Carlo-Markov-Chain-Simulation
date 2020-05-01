@@ -1,4 +1,4 @@
-dat = read.table(file="G:\\Machine Learning\\bayes_mcmc\\cookies.txt", header=TRUE)
+dat = read.table(file="cookies.txt", header=TRUE)
 head(dat)
 table(dat$location)
 hist(dat$chips)
