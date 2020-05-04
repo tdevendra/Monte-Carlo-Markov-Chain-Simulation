@@ -1,4 +1,4 @@
-callers = read.csv(file="G:\\Machine Learning\\bayes_mcmc\\callers.csv")
+callers = read.csv(file="data\callers.csv")
 
 head(callers)
 
